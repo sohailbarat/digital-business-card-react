@@ -1,0 +1,21 @@
+.item {
+  /* padding: 10px;
+  margin: 10px; */
+  text-align: center;
+}
+
+.item-buttons button {
+  margin: 10px 10px;
+  width: 120px;
+  height: 30px;
+}
+
+.social-buttons button {
+  margin: 10px 10px;
+  width: 50px;
+  height: 30px;
+}
+
+footer {
+  background-color: #161619
+}

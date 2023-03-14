@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  justify-content: center; /* centers the items horizontally */
+  align-items: center; /* centers the items vertically */
+  height: 100vh; /* sets the height of the body to 100% of the viewport height */
+  color: white;
+  font-style:italic;
+}
+
+.container {
+  display: flex;
+  flex-direction: column; /* sets the items to stack vertically */
+  background-color: #23252C;
+}
+
+h1, h3, h6 {
+  padding: 3px;
+  margin: 2px;
+}
+
+p {
+  max-width: 350px;
+}
